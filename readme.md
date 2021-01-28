@@ -1,3 +1,3 @@
 https://ae-windbox.github.io/MixedVineCraft/
 
-![taofan](taofan.png)
+![money](./asset/taofan.png)
